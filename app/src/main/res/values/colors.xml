@@ -6,4 +6,5 @@
     <color name="colorPrimaryLight">#01b4e4</color>
     <color name="colorWhite">#FFFFFF</color>
     <color name="colorGrey">#dddddd</color>
+    <color name="semi_grey">#858585</color>
 </resources>
