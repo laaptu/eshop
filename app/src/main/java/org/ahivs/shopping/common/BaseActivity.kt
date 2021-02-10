@@ -8,7 +8,8 @@ import org.ahivs.shopping.R
 abstract class BaseActivity : AppCompatActivity() {
 
     fun initToolBar(
-        toolbar: Toolbar, appIcon: Int = R.drawable.ic_app_icon,
+        toolbar: Toolbar,
+        appIcon: Int = R.drawable.ic_app_icon,
         showHomeAsUp: Boolean = false
     ) {
         setSupportActionBar(toolbar)
